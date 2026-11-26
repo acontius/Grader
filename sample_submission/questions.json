@@ -1,0 +1,86 @@
+[
+  {
+    "question_id": "q01",
+    "question": "What was the primary attack vector in the SolarWinds supply-chain compromise?",
+    "answer": "Malicious code was inserted into a legitimate software update of the Orion platform, which was then distributed to customers.",
+    "doc_id": "doc01",
+    "excerpt": "The attackers inserted a backdoor into the SolarWinds Orion software updates."
+  },
+  {
+    "question_id": "q02",
+    "question": "Which CVE identifier is associated with the critical Log4j remote code execution vulnerability?",
+    "answer": "CVE-2021-44228",
+    "doc_id": "doc02",
+    "excerpt": "CVE-2021-44228 allows remote code execution via JNDI lookup."
+  },
+  {
+    "question_id": "q03",
+    "question": "Which ransomware group was responsible for the Colonial Pipeline attack?",
+    "answer": "DarkSide",
+    "doc_id": "doc03",
+    "excerpt": "The Colonial Pipeline Company was the victim of a ransomware attack by the DarkSide group."
+  },
+  {
+    "question_id": "q04",
+    "question": "What is the common name for the set of Microsoft Exchange vulnerabilities exploited in mid-2021 that includes CVE-2021-34473?",
+    "answer": "ProxyShell",
+    "doc_id": "doc04",
+    "excerpt": "ProxyShell is a chain of vulnerabilities affecting Microsoft Exchange Server."
+  },
+  {
+    "question_id": "q05",
+    "question": "Which vulnerability did the WannaCry ransomware primarily exploit?",
+    "answer": "EternalBlue (MS17-010)",
+    "doc_id": "doc05",
+    "excerpt": "WannaCry leveraged the EternalBlue exploit targeting a vulnerability in Windows SMB."
+  },
+  {
+    "question_id": "q06",
+    "question": "What product was the initial infection vector in the Kaseya VSA ransomware campaign?",
+    "answer": "Kaseya VSA (Virtual System Administrator)",
+    "doc_id": "doc06",
+    "excerpt": "Attackers exploited a vulnerability in Kaseya VSA to distribute ransomware to managed service providers."
+  },
+  {
+    "question_id": "q07",
+    "question": "What is the common name of CVE-2020-1472?",
+    "answer": "ZeroLogon",
+    "doc_id": "doc07",
+    "excerpt": "CVE-2020-1472, also known as ZeroLogon, allows an attacker to escalate privileges on a domain controller."
+  },
+  {
+    "question_id": "q08",
+    "question": "What was the primary destructive effect of the NotPetya malware?",
+    "answer": "It rendered systems unbootable by overwriting the Master Boot Record while pretending to be ransomware.",
+    "doc_id": "doc08",
+    "excerpt": "NotPetya was designed to be destructive rather than for financial gain."
+  },
+  {
+    "question_id": "q09",
+    "question": "Which set of Exchange vulnerabilities is known as ProxyLogon?",
+    "answer": "CVE-2021-26855 and related vulnerabilities that allow unauthenticated remote code execution.",
+    "doc_id": "doc09",
+    "excerpt": "ProxyLogon refers to a chain of Microsoft Exchange Server vulnerabilities disclosed in early 2021."
+  },
+  {
+    "question_id": "q10",
+    "question": "What type of software was affected by the critical MOVEit Transfer vulnerability in 2023?",
+    "answer": "Managed file transfer (MFT) software – Progress MOVEit Transfer",
+    "doc_id": "doc10",
+    "excerpt": "A SQL injection vulnerability in MOVEit Transfer allowed unauthorized access to data."
+  },
+  {
+    "question_id": "q11",
+    "question": "In the synthetic insider-threat case study, what was the main method of data exfiltration?",
+    "answer": "The insider used personal cloud storage accounts and encrypted archives to move sensitive files outside the corporate network.",
+    "doc_id": "doc11",
+    "excerpt": "Data was staged in encrypted zip files and uploaded to a personal Dropbox account."
+  },
+  {
+    "question_id": "q12",
+    "question": "What sector was primarily targeted in the synthetic phishing campaign described in doc12?",
+    "answer": "The financial sector (banks and payment processors).",
+    "doc_id": "doc12",
+    "excerpt": "Spear-phishing emails targeted employees of several mid-size banks."
+  }
+]
