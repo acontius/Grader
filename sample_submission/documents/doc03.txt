@@ -1,0 +1,15 @@
+Document ID: doc03
+Title: Sample cybersecurity document doc03
+
+This is a synthetic document created for the Task 1 Grader Agent sample submission.
+It contains sufficient text to pass the readability check (more than 50 characters).
+
+Key points:
+- This document discusses common cybersecurity incidents and best practices.
+- It is intentionally free of personally identifiable information (PII).
+- The content is designed to support answerable questions in the test set.
+- Document type and metadata are defined in the accompanying metadata.json file.
+
+Additional paragraph to ensure length: Cybersecurity teams should maintain an up-to-date inventory of assets, apply patches promptly, monitor for anomalous behavior, and practice incident response regularly. Zero-trust principles, least privilege, and continuous verification help reduce the attack surface. Regular tabletop exercises improve readiness for real incidents.
+
+End of document doc03.
